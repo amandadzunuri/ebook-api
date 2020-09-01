@@ -1,0 +1,35 @@
+all data
+[
+
+]
+
+single data
+{
+
+}
+
+BP
+{
+    message: "show data success"
+    data:[]
+}
+
+{
+    data:{}
+}
+
+{
+    message: "Data not found"
+    data:null
+}
+
+{
+    error: "Create data failed"
+}
+
+{
+    error:{
+        message:
+        status:
+    }
+}
